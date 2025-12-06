@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .GRAPHICS one-word domains still available to buy.
 
-This dataset contains 4,580 .GRAPHICS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,578 .GRAPHICS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.GRAPHICS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=graphics-oneword-domains&utm_content=description.top) (4,579) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.GRAPHICS one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.graphics      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.graphics      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.graphics  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.graphics      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.graphics  | available | 58       | 7%     | 9      |           |         |         |
