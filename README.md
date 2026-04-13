@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .graphics one-word domains from Un
 
 **Public extract:** 9,233 rows · **Live catalog:** 9,233 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/graphics`  
 **Best for:** founders, investors, studios
 
@@ -80,7 +80,7 @@ print(df.head())
 | business.graphics | resell    | —         | —             | 100            | 53     | 8      | Sav.com, LLC - 22 |
 | simple.graphics   | premium   | $123.75   | $123.75       | 128            | 48     | 6      | name.com          |
 | health.graphics   | available | $31.98    | —             | 92             | 43     | 6      | namecheap         |
-| global.graphics   | resell    | —         | —             | 86             | 50     | 6      | Porkbun LLC       |
+| global.graphics   | resell    | —         | —             | 86             | 51     | 6      | Porkbun LLC       |
 | big.graphics      | premium   | $41.25    | $41.25        | 88             | 47     | 3      | name.com          |
 | energy.graphics   | available | $31.98    | —             | 82             | 43     | 6      | namecheap         |
 | real.graphics     | resell    | —         | —             | 78             | 49     | 4      | Sav.com, LLC      |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRAPHICS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRAPHICS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
