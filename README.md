@@ -75,10 +75,10 @@ print(df.head())
 | one.graphics      | premium   | $123.75   | $123.75       | 132            | 50     | 3      | name.com          |
 | hotel.graphics    | available | $31.98    | —             | 70             | 45     | 5      | namecheap         |
 | blue.graphics     | resell    | —         | —             | 92             | 58     | 4      | GoDaddy.com, LLC  |
-| digital.graphics  | premium   | $500      | $500          | 100            | 50     | 7      | name.com          |
+| simple.graphics   | premium   | $123.75   | $123.75       | 128            | 49     | 6      | name.com          |
 | creator.graphics  | available | $31.98    | —             | 70             | 45     | 7      | namecheap         |
 | business.graphics | resell    | —         | —             | 100            | 53     | 8      | Sav.com, LLC - 22 |
-| simple.graphics   | premium   | $123.75   | $123.75       | 128            | 48     | 6      | name.com          |
+| digital.graphics  | premium   | $500      | $500          | 100            | 49     | 7      | name.com          |
 | health.graphics   | available | $31.98    | —             | 92             | 43     | 6      | namecheap         |
 | global.graphics   | resell    | —         | —             | 86             | 51     | 6      | Porkbun LLC       |
 | big.graphics      | premium   | $41.25    | $41.25        | 88             | 47     | 3      | name.com          |
