@@ -432,6 +432,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 25e2b31f-8251-4b07-9e36-bae2ded015cb,onfire.graphics,available,31.98,,50,12,7,namecheap,,
 25e7bbf2-f98d-4510-88c3-6e059a3b888e,notices.graphics,available,23.99,23.99,48,6,7,namesilo,,
 25eb682c-0780-4622-95cc-12bd79e33fc4,midmorning.graphics,available,31.98,,80,1,11,namecheap,,
+25f8f5df-da98-453f-ba1f-cba004ebf831,fold.graphics,resell,,,78,21,4,"GoDaddy.com, LLC",13/05/2015 17:34,13/05/2027 17:34
 26240306-76a2-4583-b93e-e80246fcaac4,polled.graphics,available,31.98,,69,3,6,namecheap,,
 263819ae-cba6-4878-9df5-353c14d56839,specialness.graphics,available,31.98,,70,1,11,namecheap,,
 265802bd-a5a4-410f-ac37-d8c148e19bdc,overwhelmed.graphics,available,31.98,,48,5,11,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55c206bd-eef1-4068-a83a-6807918ec799,shortcuts.graphics,available,31.98,,48,41,10,namecheap,,
 55d8b3b9-9269-4cff-8fee-1bf11e685bff,goberserk.graphics,available,31.98,,68,1,10,namecheap,,
 55d98216-ff16-4baf-b760-01fb71f70139,equations.graphics,available,31.98,,54,5,9,namecheap,,
-55eb10a6-acb4-4d63-9a67-533de223039d,fundamentals.graphics,available,31.98,,74,15,12,namecheap,,
