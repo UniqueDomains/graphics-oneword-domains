@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .graphics one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,185 domains · **Median ask:** $32.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/graphics`  
 **Best for:** founders, investors, studios
 
@@ -68,14 +68,14 @@ print(df.head())
 | ladies.graphics    | available | $31.98    | —             | 80             | 17     | 6      | namecheap        |
 | forces.graphics    | available | $31.98    | —             | 82             | 12     | 6      | namecheap        |
 | geton.graphics     | available | $31.98    | —             | 82             | 10     | 6      | namecheap        |
-| popup.graphics     | available | $31.98    | —             | 84             | 29     | 6      | namecheap        |
+| popup.graphics     | available | $31.98    | —             | 84             | 28     | 6      | namecheap        |
 | useit.graphics     | available | $31.98    | —             | 94             | 7      | 6      | namecheap        |
 | dogsit.graphics    | available | $31.98    | —             | 96             | 2      | 6      | namecheap        |
 | edamame.graphics   | available | $23.99    | $23.99        | 80             | 9      | 7      | namesilo         |
 | QandA.graphics     | available | $31.98    | —             | 80             | 10     | 7      | namecheap        |
 | toneup.graphics    | available | $31.98    | —             | 80             | 5      | 7      | namecheap        |
 | hangon.graphics    | available | $31.98    | —             | 82             | 6      | 7      | namecheap        |
-| makeit.graphics    | available | $31.98    | —             | 82             | 22     | 7      | namecheap        |
+| makeit.graphics    | available | $31.98    | —             | 82             | 21     | 7      | namecheap        |
 | stirup.graphics    | available | $31.98    | —             | 82             | 3      | 7      | namecheap        |
 | watches.graphics   | available | $31.98    | —             | 84             | 19     | 7      | namecheap        |
 | skills.graphics    | available | $31.98    | —             | 58             | 47     | 6      | namecheap        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRAPHICS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRAPHICS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
