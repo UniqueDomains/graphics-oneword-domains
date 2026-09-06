@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .graphics one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,192 domains · **Median ask:** $27.29 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/graphics`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| simple.graphics | premium   | $123.75   | $123.75       | high           | medium | 6      | name.com     |
-| abo.graphics    | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
-| smart.graphics  | resell    | —         | —             | high           | high   | 5      | Sav.com, LLC |
-| ADS.graphics    | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo     |
-| ane.graphics    | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
-| btw.graphics    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo     |
-| ive.graphics    | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo     |
-| bud.graphics    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| lxv.graphics    | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
-| coy.graphics    | premium   | $123.75   | $123.75       | medium         | low    | 3      | name.com     |
-| lxx.graphics    | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
-| dry.graphics    | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com     |
-| nan.graphics    | available | $31.98    | —             | high           | low    | 3      | namecheap    |
-| due.graphics    | premium   | $41.25    | —             | high           | low    | 3      | name.com     |
-| sip.graphics    | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo     |
-| dye.graphics    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo     |
-| xlv.graphics    | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
-| eve.graphics    | premium   | $123.75   | —             | high           | medium | 3      | name.com     |
-| xxv.graphics    | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo     |
-| fan.graphics    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| abo.graphics   | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
+| smart.graphics | resell    | —         | —             | high           | high   | 5      | Sav.com, LLC |
+| ADS.graphics   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo     |
+| ane.graphics   | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
+| btw.graphics   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo     |
+| ive.graphics   | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo     |
+| bud.graphics   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| lxv.graphics   | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
+| coy.graphics   | premium   | $123.75   | $123.75       | medium         | low    | 3      | name.com     |
+| lxx.graphics   | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
+| dry.graphics   | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com     |
+| nan.graphics   | available | $31.98    | —             | high           | low    | 3      | namecheap    |
+| due.graphics   | premium   | $41.25    | —             | high           | low    | 3      | name.com     |
+| sip.graphics   | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo     |
+| dye.graphics   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo     |
+| xlv.graphics   | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
+| eve.graphics   | premium   | $123.75   | —             | high           | medium | 3      | name.com     |
+| xxv.graphics   | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo     |
+| fan.graphics   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
+| arid.graphics  | available | $22.98    | $31.98        | low            | low    | 4      | namecheap    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRAPHICS One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRAPHICS One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
