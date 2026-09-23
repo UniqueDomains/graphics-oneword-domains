@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .graphics one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,489 domains · **Median ask:** $25.98 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/graphics`
 **Best for:** founders, investors, studios
 
@@ -76,12 +76,12 @@ print(df.head())
 | lxx.graphics   | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
 | dry.graphics   | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com     |
 | nan.graphics   | available | $31.98    | —             | high           | low    | 3      | namecheap    |
-| due.graphics   | premium   | $41.25    | —             | high           | low    | 3      | name.com     |
+| due.graphics   | premium   | $38.94    | $38.94        | low            | low    | 3      | namesilo     |
 | sip.graphics   | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo     |
 | dye.graphics   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo     |
 | xlv.graphics   | available | $22.98    | $31.98        | low            | low    | 3      | namecheap    |
 | eve.graphics   | premium   | $123.75   | —             | high           | medium | 3      | name.com     |
-| xxv.graphics   | available | $23.99    | $23.99        | medium         | low    | 3      | namesilo     |
+| xxv.graphics   | available | $23.99    | $23.99        | low            | low    | 3      | namesilo     |
 | fan.graphics   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
 | arid.graphics  | available | $22.98    | $31.98        | low            | low    | 4      | namecheap    |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .GRAPHICS One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .GRAPHICS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
